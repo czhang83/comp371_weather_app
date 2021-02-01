@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClassActivity2</string>
+    <string name="button_go">Go</string>
+    <string name="input_hint">Enter City Name</string>
+    <string name="no_city">No City Found.</string>
+    <string name="city_weather_title">Weather</string>
+
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="feels_like">Feels Like</string>
+</resources>
